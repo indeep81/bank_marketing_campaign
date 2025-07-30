@@ -80,17 +80,16 @@ Given the class imbalance (more "no" responses than "yes") and the limitations o
 -   Feature engineering (e.g., handling `pdays` to create a `was_contacted_before` indicator) and one-hot encoding improved prediction.
 
 
-## 🚀 Next Steps & Recommendations
+## Next Steps & Recommendations
 
-- 🎯 Focus campaigns on job groups with higher conversion rates (e.g., students, retirees)
-- 🧪 Test model predictions in a live A/B marketing test
-- ⏳ Exclude features like `duration` for real-world prediction use (only known after the call)
-- 🔁 Regularly retrain model as market behavior shifts
-- 🧠 Explore alternate resampling strategies or more complex models like Random Forest or XGBoost for further gains.
+- Focus campaigns on job groups with higher conversion rates (e.g., students, retirees)
+- Test model predictions in a live A/B marketing test
+- Exclude features like `duration` for real-world prediction use (only known after the call)
+- Regularly retrain model as market behavior shifts
+- Explore alternate resampling strategies or more complex models like Random Forest or XGBoost for further gains.
 
----
 
-## 🗂️ Outline of Project
+## Outline of Project
 
 1.  **Data Exploration & Cleaning**
 2.  **EDA (Exploratory Data Analysis)**
@@ -99,13 +98,10 @@ Given the class imbalance (more "no" responses than "yes") and the limitations o
 5.  **Model Comparison & Insights**
 6.  **Final Recommendations**
 
----
-
-## 📬 Contact Information
+## Contact Information
 
 **Author:** Indeep Kaur
-📧 Email: [YourEmail@example.com]
-🔗 GitHub: [github.com/indeep81](https://github.com/indeep81)
+GitHub: [github.com/indeep81](https://github.com/indeep81)
 
 ---
 
